@@ -37,7 +37,7 @@
     "commander": "2.x.x",
     "co-prompt": "1.x.x",
     "express": "4.x.x",
-    "actionrouter": "0.1.x",
+    "actionrouter": "https://github.com/atryputsen/node-actionrouter/tarball/master",
     "bootable": "0.2.x",
     "bootable-environment": "0.2.x",
     "parent-require": "1.x.x",
